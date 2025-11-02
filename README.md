@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Thomas!</h1>
-<h3>A Passionate Graduate (1st Class) from London!</h3>
+<h3>A Passionate Graduate (1st Class) from Kent, United Kingdom!</h3>
 
 I'm a 24-year-old Computer Science graduate from Manchester Metropolitan University (First Class Honours, May 2024) now based in Kent. I'm passionate about full-stack development and love exploring new technologies and solving interesting problems.
 
