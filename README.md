@@ -1,55 +1,30 @@
 <h1>Hi 👋, I'm Thomas!</h1>
-<h3>A Passionate Graduate (1st Class) from Kent, United Kingdom!</h3>
+Software engineer with a full-stack and applied-ML background, now working deeper into low-level and systems programming with **C, Python and Go**.
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasgollick/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thomasgollick@gmail.com)
+ 
+### Things I've built
+ 
+- **[career-copilot](https://github.com/tgollick/career-copilot)** — job-matching platform. Custom TF-IDF + cosine similarity and spaCy NLP to match CVs to roles, with AI-generated cover letters. *Next.js, FastAPI, PostgreSQL.*
+- **[therapeutic-llm](https://github.com/tgollick/therapeutic-llm)** — empathetic chatbot with real-time emotion detection across 28 emotions and sarcasm analysis. *FastAPI, React, RoBERTa.*
+- **[dsg-home-finance](https://github.com/tgollick/dsg-home-finance)** — production mortgage-advisory site for a real business, with enquiry management and a blog CMS. *Next.js 15, TypeScript, tRPC, Prisma, PostgreSQL.*
+- **[c-state-machine](https://github.com/tgollick/c-state-machine)** — an embedded state-machine engine in C: ring-buffer event queue, table-driven actions, and a tick-based watchdog. Where I'm spending most of my time right now.
+### Toolbox
+ 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+ 
+---
+ 
+🎓 First Class Honours, Computer Science — Manchester Metropolitan University
+📫 **thomasgollick@gmail.com** · [LinkedIn](https://www.linkedin.com/in/thomasgollick/)
 
-I'm a 24-year-old Computer Science graduate from Manchester Metropolitan University (First Class Honours, May 2024) now based in Kent. I'm passionate about full-stack development and love exploring new technologies and solving interesting problems.
-
-**Currently building:**
--   A portfolio site leveraging HTMX and Go for performant, dynamic interactions + just to try out different technologies
--   Career Copilot, which is a full-stack job matching platform (Next.js, FastAPI, PostgreSQL) that uses custom ML algorithms (TF-IDF, cosine similarity) and spaCy NLP to intelligently match CVs to jobs, plus AI-powered cover letter generation just because why not.
-
-**What's next:** I'm super hungry to break into the industry and am actively seeking full-time software development roles where I can contribute, learn, and grow alongside a talented team.
-
-Love chatting about anything industry related and would love to network or have a chat with anyone and everyone. Reach out via email or LinkedIn below!
-- 🌱 I’m currently learning **HTMX, Go & C**
-
-- 💬 Ask me about **Full-stack Development, Natural Language Processing, C# & Go**
-
-- 📫 How to reach me **thomasgollick@gmail.com**
-
-- ⚡ Fun fact **I love to stay active and am (attempting) to run a half marathon next year!**
-
-
-<h3 align="left">Programming languages</h3>
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/></a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="36" height="36"/></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="36" height="36"/></a>
-</p>
-
-<h3 align="left">Frameworks & libraries</h3>
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/></a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="36" height="36"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/></a>
-  <a href="https://htmx.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original-wordmark.svg" alt="htmx" width="36" height="36"/></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="36" height="36"/></a>
-</p>
-
-<h3 align="left">Databases & tools</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="36" height="36"/></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tgollick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tgollick" height="30" width="40" /></a>
