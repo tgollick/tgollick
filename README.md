@@ -44,7 +44,7 @@ Production mortgage-advisory site for a real business, with enquiry management a
 </td>
 <td width="50%" valign="top">
 
-<strong><a href="https://github.com/tgollick/c-state-machine">c-state-machine</a></strong><br>
+<strong><a href="https://github.com/tgollick/bae-prep/tree/main/c-state-machine">c-state-machine</a></strong><br>
 Embedded state-machine engine in C: ring-buffer event queue, table-driven actions and a tick-based watchdog. Where most of my time goes right now.<br><br>
 <sub>C&nbsp;&middot;&nbsp;GCC&nbsp;&middot;&nbsp;Neovim</sub>
 
