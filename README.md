@@ -1,30 +1,81 @@
-<h1>Hi 👋, I'm Thomas!</h1>
-Software engineer with a full-stack and applied-ML background, now working deeper into low-level and systems programming with **C, Python and Go**.
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasgollick/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thomasgollick@gmail.com)
- 
-### Things I've built
- 
-- **[career-copilot](https://github.com/tgollick/career-copilot)** — job-matching platform. Custom TF-IDF + cosine similarity and spaCy NLP to match CVs to roles, with AI-generated cover letters. *Next.js, FastAPI, PostgreSQL.*
-- **[therapeutic-llm](https://github.com/tgollick/therapeutic-llm)** — empathetic chatbot with real-time emotion detection across 28 emotions and sarcasm analysis. *FastAPI, React, RoBERTa.*
-- **[dsg-home-finance](https://github.com/tgollick/dsg-home-finance)** — production mortgage-advisory site for a real business, with enquiry management and a blog CMS. *Next.js 15, TypeScript, tRPC, Prisma, PostgreSQL.*
-- **[c-state-machine](https://github.com/tgollick/c-state-machine)** — an embedded state-machine engine in C: ring-buffer event queue, table-driven actions, and a tick-based watchdog. Where I'm spending most of my time right now.
-### Toolbox
- 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
- 
----
- 
-🎓 First Class Honours, Computer Science — Manchester Metropolitan University
-📫 **thomasgollick@gmail.com** · [LinkedIn](https://www.linkedin.com/in/thomasgollick/)
+<div align="center">
 
+<h1>Tom Gollick</h1>
+
+<p><strong>Software Engineer</strong></p>
+
+<p><em>Full-stack and applied ML background, now working deeper into low-level systems programming.</em></p>
+
+<p>
+<a href="https://www.linkedin.com/in/thomasgollick/"><img src="https://img.shields.io/badge/LinkedIn-1e2327?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:thomasgollick@gmail.com"><img src="https://img.shields.io/badge/Email-1e2327?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+</div>
+
+<hr>
+
+<h3>Selected Work</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong><a href="https://github.com/tgollick/career-copilot">career-copilot</a></strong><br>
+Job-matching platform using custom TF-IDF, cosine similarity and spaCy NLP to match CVs to roles, with AI-generated cover letters.<br><br>
+<sub>Next.js&nbsp;&middot;&nbsp;FastAPI&nbsp;&middot;&nbsp;PostgreSQL</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<strong><a href="https://github.com/tgollick/therapeutic-llm">therapeutic-llm</a></strong><br>
+Empathetic chatbot with real-time emotion detection across 28 emotions and sarcasm analysis.<br><br>
+<sub>FastAPI&nbsp;&middot;&nbsp;React&nbsp;&middot;&nbsp;RoBERTa</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong><a href="https://github.com/tgollick/dsg-home-finance">dsg-home-finance</a></strong><br>
+Production mortgage-advisory site for a real business, with enquiry management and a blog CMS.<br><br>
+<sub>Next.js&nbsp;15&nbsp;&middot;&nbsp;TypeScript&nbsp;&middot;&nbsp;tRPC&nbsp;&middot;&nbsp;Prisma</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<strong><a href="https://github.com/tgollick/c-state-machine">c-state-machine</a></strong><br>
+Embedded state-machine engine in C: ring-buffer event queue, table-driven actions and a tick-based watchdog. Where most of my time goes right now.<br><br>
+<sub>C&nbsp;&middot;&nbsp;GCC&nbsp;&middot;&nbsp;Neovim</sub>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>Tech</h3>
+
+<div align="center">
+
+<sub><strong>LANGUAGES</strong></sub><br>
+<kbd>&nbsp;C&nbsp;</kbd> <kbd>&nbsp;Python&nbsp;</kbd> <kbd>&nbsp;TypeScript&nbsp;</kbd> <kbd>&nbsp;Go&nbsp;</kbd>
+
+<br><br>
+
+<sub><strong>FRAMEWORKS &amp; LIBRARIES</strong></sub><br>
+<kbd>&nbsp;Next.js&nbsp;</kbd> <kbd>&nbsp;React&nbsp;</kbd> <kbd>&nbsp;FastAPI&nbsp;</kbd> <kbd>&nbsp;Node.js&nbsp;</kbd>
+
+<br><br>
+
+<sub><strong>TOOLS</strong></sub><br>
+<kbd>&nbsp;PostgreSQL&nbsp;</kbd> <kbd>&nbsp;Linux&nbsp;</kbd> <kbd>&nbsp;Neovim&nbsp;</kbd> <kbd>&nbsp;Git&nbsp;</kbd>
+
+</div>
+
+<hr>
+
+<div align="center">
+<sub>First Class Honours, Computer Science &mdash; Manchester Metropolitan University</sub><br>
+<sub><a href="mailto:thomasgollick@gmail.com">thomasgollick@gmail.com</a>&nbsp;&middot;&nbsp;<a href="https://www.linkedin.com/in/thomasgollick/">LinkedIn</a></sub>
+</div>
